@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ganeshnayal
 - 👀 I’m interested in yoga nad meditation.
 - 🌱 I’m currently learning data science and AI from 360digitmg.
-- 💞️ I’m looking to collaborate on sata science projects.
+- 💞️ I’m looking to collaborate on data science projects.
 
 
 <!---
